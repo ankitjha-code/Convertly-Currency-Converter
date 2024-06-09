@@ -80,6 +80,8 @@
             font-size: 25px;
             width: 23vw;
             margin-bottom: 23px;
+            padding: 11px 3px;
+            
         }
 
         .btn {
@@ -150,6 +152,7 @@
             text-align: center;
             background-color:rgb(32, 179, 179);
             padding: 25px;
+            margin-top: 25px;
 
         }
         div.logo img{
